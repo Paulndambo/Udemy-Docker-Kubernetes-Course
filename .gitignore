@@ -3,4 +3,6 @@ NodeJs/express/node_modules
 /NodeJs/express/node_modules/
 Mongo/.mongodb
 Mongo/diagnostic.data
-
+Mongo/db
+/Mongo/db/
+/Mongo/db
